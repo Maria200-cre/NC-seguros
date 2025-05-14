@@ -108,3 +108,15 @@ body {
     gap: 20px;
     flex-wrap: wrap; 
     justify-content: space-around; }
+
+  
+    .responsabilidad-civil {
+  max-width: 900px;
+  margin: 60px auto;
+  text-align: center;
+  color: #4a5a63;
+  font-size: 25px;
+  line-height: 1.7;
+  font-family:'Times New Roman', Times, serif;
+  padding: 60px;
+}
