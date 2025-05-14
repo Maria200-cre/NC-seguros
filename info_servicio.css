@@ -1,0 +1,82 @@
+<div class="card"> 
+<a href="seguro_vida.html">
+  <img src="img/VIDA.avif" width="300" height="250">  
+  <p> SEGURO DE VIDA </p>
+</a>
+</div>
+
+<div class="card"> 
+<a href="seguro_todo_riesgo.html">
+  <img src="img/328354e5-5cbb-44d5-a161-296f4fbbdcdb.webp" width="300" height="250">  
+  <p> SEGURO TODO RIESGO </p>
+</a>
+</div>
+<div class="card"> 
+<a href="seguro_educacion.html">
+  <img src="img/Diseño sin título.png" width="300">
+  <p> SEGURO DE EDUCACION</p>
+</a>
+</div>
+<div class="card"> 
+<a href="polizas_oferta.html"> 
+<img src="img/POLIZAS DE SERIEDAD DE OFERTA Y CUMPLIMIENTO.jpg" width="300" height="250">  
+<p> POLIZAS DE SERIEDAD DE OFERTA Y CUMPLIMIENTO</p>
+</div>
+</a>
+
+<div class="card"> 
+<a href="poliza_responsabilidad.html"> 
+<img src="img/POLIZAS DE RESPONSABILIDAD CIVIL MEDICA.jpeg" width="300" height="250">  
+<p> POLIZAS DE RESPONSABILIDAD CIVIL MEDICA</p>
+</div>
+</a>
+
+<div class="card"> 
+ <a href="poliza_arrendamiento.html"> 
+<img src="img/arrendamiento.jpg" width="300" height="250">  
+<p> POLIZA DE ARRENDAMIENTO</p>
+</div>
+</a>
+
+<div class="card"> 
+<a href="aplicacion_previred.html"> 
+<img src="img/previred.jpg" width="300" height="250">  
+<p> APLICACION A PREVIRED</p>
+</div>
+</a>
+
+<div class="card"> 
+<a href="afiliacion_salud.html"> 
+<img src="img/SALUD Y ARL.webp" width="300" height="250">  
+<p> AFILIACION A SALUD, PENSION Y ARL 
+</div>
+</a>
+
+
+.card{
+    background-color: #205781;
+    padding: 30px;
+    border-radius:10%;
+    text-align: center;
+    width:20%;
+    height: 350px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin:0;
+    color: #fff;
+    margin: 5px auto;
+   
+}
+.card img{
+    width: 100%;
+    align-items: center;
+    height: 70%;
+    object-fit: cover;
+}
+
+.card a{
+    color: #fff;
+    text-decoration: none;
+    justify-content: space-around;
+    width: 20px;
+    height: 20px;
+}
