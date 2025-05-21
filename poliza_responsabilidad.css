@@ -110,7 +110,7 @@ body {
     justify-content: space-around; }
 
   
-    .responsabilidad-civil {
+.responsabilidad-civil {
   max-width: 900px;
   margin: 60px auto;
   text-align: center;
@@ -119,4 +119,30 @@ body {
   line-height: 1.7;
   font-family:'Times New Roman', Times, serif;
   padding: 60px;
+}
+
+.condiciones-poliza {
+  max-width: 1000px;
+  margin: 60px auto;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #3e4b52;
+  padding: 20px;
+}
+
+.condiciones-poliza h2 {
+  font-size: 28px;
+  margin-bottom: 5px;
+  color: #1d1d1f;
+}
+
+.linea-subrayado {
+  width: 40px;
+  height: 2px;
+  background-color: #1d1d1f;
+  margin-bottom: 30px;
+}
+
+.condiciones-poliza p {
+  font-size: 16px;
+  line-height: 1.7;
 }
